@@ -89,5 +89,3 @@ You can customize the `docker-compose.yml` file to add other services, change th
 For any issues or questions, open an issue in the repository or contact me via the repository discussions.
 
 ---
-
-This overview provides users with all the necessary information to understand how to use the image, configure their environment, and get the application running locally. It also gives a clear picture of the services involved and their roles in the application stack.
