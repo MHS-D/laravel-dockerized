@@ -1,11 +1,7 @@
 
-# laravel-dockerized
-
-To provide a clear and concise overview for your Docker Hub repository, you should explain the purpose of the image, the services involved, and how users can run the application. Below is a suggestion for an overview based on your Docker Compose and Dockerfile setup.
-
 ---
 
-### **Docker Hub Repository Overview for `mhmdhs/laravel-app`**
+### **Repository Overview for `laravel-dockerized`**
 
 #### **Description**
 This repository contains a Dockerized Laravel application, complete with the necessary services to run a full-stack web application. It includes a PHP-FPM container for the Laravel app, an Nginx container for serving the app, a MySQL database container, Redis for caching, and phpMyAdmin for managing the database through a web interface.
@@ -87,5 +83,8 @@ You can customize the `docker-compose.yml` file to add other services, change th
 
 #### **Support**
 For any issues or questions, open an issue in the repository or contact me via the repository discussions.
+
+#### **DockerHub Link**
+https://hub.docker.com/r/mhmdhs/laravel-app
 
 ---
